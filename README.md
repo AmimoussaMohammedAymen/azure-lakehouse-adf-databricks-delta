@@ -16,7 +16,6 @@ Production-style **Azure Data Engineering** project implementing a **Medallion L
 - **Silver**: cleaned + standardized + deduplicated
 - **Gold**: business-ready aggregates + dimensions/facts
 
-> Add screenshot: `docs/architecture.png`
 
 ---
 
@@ -95,8 +94,6 @@ See: `databricks/05_quality_checks.py`
 
 ---
 
-## Demo script (2 minutes)
-See `docs/demo_script.md`
 
 ---
 
